@@ -5,7 +5,7 @@ Report for Internship in Indian Meteorological Department isubmitted in partial 
 
 ## Dataset
 - Period: 1988–2025
-- Location: Karnal
+- Location: Ambala
 
 ## Libraries
 - pandas
